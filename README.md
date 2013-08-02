@@ -1,10 +1,12 @@
 # cjs
 
-FIXME: description
+cjs is an implementation of a C-like language in Clojure(Script)
+via a desugaring to an extended lambda-calculus that runs on an 
+implementation of a CESK machine.
 
 ## Installation
 
-Download from http://example.com/FIXME.
+FIXME.
 
 ## Usage
 
